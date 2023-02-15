@@ -118,7 +118,7 @@ Do It Live
 
 ## Buttons
 
-Make any link standout more when applying the `.btn` class.
+Make any [link](https://){: .btn} standout more when applying the `.btn` class. 
 
 ## Notices
 
@@ -135,7 +135,7 @@ Make any link standout more when applying the `.btn` class.
 
 ### Anchor Tag (aka. Link)
 
-This is an example of a [link](http://github.com "Github").
+This is an example of a [link](http://github.com "Github"){: target="_blank"}.
 
 ### Abbreviation Tag
 

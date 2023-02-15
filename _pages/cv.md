@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics. Dean’s Honored Graduate with Distinction in Research.
+Advised by Prof. Junyi Jessy Li and Prof. Greg Durrett
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
