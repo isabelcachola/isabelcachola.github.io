@@ -16,6 +16,9 @@ My research interests are in Natural Language Processing. In particular, I am in
 
 News
 ======
+2023
+---
+- ["These tools help visually impaired scientists read data and journals"](https://www.nature.com/articles/d41586-023-00645-6){: target="_blank"} by Alla Katsnelson. Nature.
 
 2022
 ---
