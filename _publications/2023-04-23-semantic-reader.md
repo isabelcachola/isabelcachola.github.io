@@ -12,13 +12,13 @@ Chloe Anastasiades, Tal August, Russell Authur, Danielle Bragg, Erin Bransom,
 Isabel Cachola, Stefan Candra, Yoganand Chandrasekhar, Yen-Sung Chen,
 Evie Yu-Yen Cheng, Yvonne Chou, Doug Downey, Rob Evans, Raymond Fok,
 Fangzhou Hu, Regan Huff, Dongyeop Kang, Tae Soo Kim, Rodney Kinney,
-Aniket Kittur, Hyeonsu Kang𝜒 Egor Klevak, Bailey Kuehl, Michael Langan,
+Aniket Kittur, Hyeonsu Kang, Egor Klevak, Bailey Kuehl, Michael Langan,
 Matt Latzke, Jaron Lochner, Kelsey MacMillan, Eric Marsh, Tyler Murray,
 Aakanksha Naik, Ngoc-Uyen Nguyen, Srishti Palani𝜎 Soya Park𝜏 Caroline Paulic,
-Napol Rachatasumrit𝜒 Smita Rao, Paul Sayre, Zejiang Shen𝜏 Pao Siangliulue,
+Napol Rachatasumrit, Smita Rao, Paul Sayre, Zejiang Shen𝜏 Pao Siangliulue,
 Luca Soldaini, Huy Tran, Madeleine van Zuylen, Lucy Lu Wang,
 Christopher Wilhelm, Caroline Wu, Jiangjiang Yang, Angele Zamarron,
-Marti A. Hearst, Daniel S. Weld'
+Marti A. Hearst, Daniel S. Weld.'
 github:
 demo: 
 slides: 
