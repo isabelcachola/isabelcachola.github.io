@@ -1,7 +1,7 @@
 ---
 title: "HEART: Computers As Authors"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate seminar course"
 permalink: /teaching/2022-fall-computers-as-authors
 venue: "Johns Hopkins University"
 date: 2022-08-01

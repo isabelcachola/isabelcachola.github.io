@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student studying Computer Science at the Johns Hopkins Center for Language and Speech Processing, advised by Prof. Mark Dredze. I've interned at Microsoft on the Knowledge and Reasoning in Language team, mentored by Dr. Sujay Jauhar and Dr. Silviu Cucerzan. Previously I was a Pre-Doctoral Young Investigator at the Allen Institute for AI on the Semantic Scholar team, advised by Prof. Dan Weld. I am originally from Texas and completed my B.S. in Mathematics at the University of Texas at Austin in 2019, advised by Prof. Jessy Li and Prof. Greg Durrett.
+I'm a PhD student studying Computer Science at the Johns Hopkins Center for Language and Speech Processing, advised by Prof. Mark Dredze. 
+I've interned at Microsoft on the Knowledge and Reasoning in Language team, mentored by Dr. Sujay Jauhar and Dr. Silviu Cucerzan.
+I've also interned at Meta on the Monetization GenAI team, mentored by Dr. Yu Guo. 
+Previously I was a Pre-Doctoral Young Investigator at the Allen Institute for AI on the Semantic Scholar team, advised by Prof. Dan Weld. 
+I am originally from Texas and completed my B.S. in Mathematics at the University of Texas at Austin in 2019, advised by Prof. Jessy Li and Prof. Greg Durrett.
 
 My research interests are in Natural Language Processing. In particular, I am interested in text generation, summarization, language modeling, natural language understanding, and computational social science. In my free time, I enjoy powerlifting, baking, and spending time with my dog.
 
@@ -16,6 +20,10 @@ My research interests are in Natural Language Processing. In particular, I am in
 
 News
 ======
+
+2024
+---
+- ["Introducing Semantic Reader"](https://www.semanticscholar.org/product/semantic-reader?utm_medium=email&_hsenc=p2ANqtz--b8GtUVxDC_e8lgH2rcDFInXx7-hJ0NCmd0Pd0FSG14xQQFgM1_wUij7ykTGkfk-6mefxmkAJwnE68Vbpfe73ONNrXIw&_hsmi=277578373&utm_content=277579005&utm_source=hs_email#skimming). AI2 Blog.
 
 2023
 ---

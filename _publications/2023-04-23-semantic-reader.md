@@ -3,9 +3,9 @@ title: "The Semantic Reader Project: Augmenting Scholarly Documents through AI-P
 collection: publications
 permalink: /publication/2023-04-23-semantic-reader
 excerpt: 
-date: 2023-04-23
-venue: 'ArXiv:2303.14334'
-paperurl: 'https://www.semanticscholar.org/reader/096ca3c5da860d41811c741ddc29242d90d1ccea'
+date: 2024-09-19
+venue: 'Communications of the ACM, Volume 67, Issue 10'
+paperurl: 'https://dl.acm.org/doi/10.1145/3659096'
 awards: 
 authors: 'Kyle Lo, Joseph Chee Chang, Andrew Head, Jonathan Bragg, Amy X. Zhang, Cassidy Trier,
 Chloe Anastasiades, Tal August, Russell Authur, Danielle Bragg, Erin Bransom,
@@ -20,7 +20,7 @@ Luca Soldaini, Huy Tran, Madeleine van Zuylen, Lucy Lu Wang,
 Christopher Wilhelm, Caroline Wu, Jiangjiang Yang, Angele Zamarron,
 Marti A. Hearst, Daniel S. Weld.'
 github:
-demo: 
+demo: https://www.semanticscholar.org/reader/096ca3c5da860d41811c741ddc29242d90d1ccea
 slides: 
 bib: 
 arxiv:
