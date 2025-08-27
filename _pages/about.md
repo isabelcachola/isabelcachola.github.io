@@ -14,7 +14,7 @@ I've also interned at Meta on the Monetization GenAI team, mentored by Dr. Yu Gu
 Previously I was a Pre-Doctoral Young Investigator at the Allen Institute for AI on the Semantic Scholar team, advised by Prof. Dan Weld. 
 I am originally from Texas and completed my B.S. in Mathematics at the University of Texas at Austin in 2019, advised by Prof. Jessy Li and Prof. Greg Durrett.
 
-My research interests are in Natural Language Processing. In particular, I am interested in text generation, summarization, language modeling, natural language understanding, and computational social science. In my free time, I enjoy powerlifting, baking, and spending time with my dog.
+My research interests are in Natural Language Processing. In particular, I am interested in text generation, summarization, language modeling, natural language understanding, and computational social science. In my free time, I enjoy crochet, baking, diving, and spending time with my dog.
 
 [Here](https://translate.google.com/?sl=es&tl=en&text=Cachola&op=translate){: target="_blank"} is how to pronounce my last name. (Click the listen button on the left side).
 

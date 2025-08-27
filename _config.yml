@@ -55,21 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter "@isabelcachola"
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
@@ -82,9 +67,9 @@ analytics:
 author:
   name             : "Isabel Cachola"
   avatar           : "profile.png"
-  bio              : "PhD Student @ Johns Hopkins"
+  bio              : "PhD Candidate @ Johns Hopkins University"
   location         : "Baltimore, MD"
-  cv               : "Academic_CV.pdf"
+  cv               : # "Academic_CV.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TPyWfi4AAAAJ"
@@ -111,6 +96,7 @@ author:
   semanticscholar  : "https://www.semanticscholar.org/author/Isabel-Cachola/51199773"
   steam            :
   tumblr           :
+  bsky             : "isabelcachola.bsky.social" # Bluesky profile URL
   twitter          : "isabelcachola"
   vine             :
   weibo            :
