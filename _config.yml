@@ -12,15 +12,9 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Isabel Cachola"
 title_separator          : "-"
 name                     : &name "Isabel Cachola"
-<<<<<<< HEAD
 description              : &description "Assistant Professor @ St. Edward's University"
 url                      : https://isabelcachola.com # http://127.0.0.1:4000 # the base hostname & protocolgi for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
-=======
-description              : &description "PhD Student @ Johns Hopkins"
-url                      : https://isabelcachola.com
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
->>>>>>> 8d3bf35a5265f4b8a51ec5583f80981bdb4cfd00
 repository               : "isabelcachola/isabelcachola.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
