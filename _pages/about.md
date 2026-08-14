@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+I am an Assistant Professor of Computer Science at St. Edward's University. I earned my PhD at the Johns Hopkins Center for Language and Speech Processing, advised by Prof. Mark Dredze. 
 I'm a PhD student studying Computer Science at the Johns Hopkins Center for Language and Speech Processing, advised by Prof. Mark Dredze. 
 I've interned at Microsoft on the Knowledge and Reasoning in Language team, mentored by Dr. Sujay Jauhar and Dr. Silviu Cucerzan.
 I've also interned at Meta on the Monetization GenAI team, mentored by Dr. Yu Guo. 

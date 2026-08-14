@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Isabel Cachola"
 title_separator          : "-"
 name                     : &name "Isabel Cachola"
-description              : &description "PhD Student @ Johns Hopkins"
+description              : &description "Assistant Professor @ St. Edward's University"
 url                      : https://isabelcachola.com # http://127.0.0.1:4000 # the base hostname & protocolgi for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : "isabelcachola/isabelcachola.github.io"
@@ -67,13 +67,13 @@ analytics:
 author:
   name             : "Isabel Cachola"
   avatar           : "profile.png"
-  bio              : "PhD Candidate @ Johns Hopkins University"
-  location         : "Baltimore, MD"
+  bio              : "Assistant Professor @ St. Edward's University"
+  location         : "Austin, TX"
   cv               : # "Academic_CV.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TPyWfi4AAAAJ"
-  email            : "icachola@cs.jhu.edu"
+  email            : "icachola@stedwards.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   semanticscholar  : "https://www.semanticscholar.org/author/Isabel-Cachola/51199773"
   steam            :
   tumblr           :
-  bsky             : "isabelcachola.bsky.social" # Bluesky profile URL
+  bsky             : 
   twitter          : "isabelcachola"
   vine             :
   weibo            :
